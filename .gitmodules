@@ -1,0 +1,3 @@
+[submodule "milvus_proto/master"]
+	path = milvus_proto/master
+	url = https://github.com/milvus-io/milvus-proto.git
